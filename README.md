@@ -1,4 +1,4 @@
-# code/phi. personal portfolio page
+# meme genrator
 
 ## Table of Contents
 
